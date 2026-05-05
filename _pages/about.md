@@ -24,8 +24,8 @@ Before coming to UVA, I earned my B.Eng. in Electronic and Computer Engineering 
 ## Recent News
 
 - **2026.03**: Started working on EEG-based analysis of aggressive driving behaviors.
-- **2026.02**: First-authored paper accepted by *IEEE Open Journal of the Communications Society*.
-- **2026.01**: Co-authored paper accepted by *IEEE Open Journal of the Communications Society*.
+- **2026.02**: First-authored paper accepted by *IEEE Open Journal of the Communications Society* (JIF: 6.1, JCR Q1).
+- **2026.01**: Co-authored paper accepted by *IEEE Open Journal of the Communications Society* (JIF: 6.1, JCR Q1).
 - **2025.08**: Two papers accepted by *IEEE CloudCom 2025*.
 - **2024.07**: First-authored paper accepted by *IEEE SmartIoT 2024*.
 
