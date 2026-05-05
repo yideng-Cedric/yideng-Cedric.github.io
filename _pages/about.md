@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Engineering at the [University of Virginia](https://www.virginia.edu/), graduating in December 2026. My research focuses on **biosignal processing**, **cloud-edge AI systems**, and **generative models for healthcare applications**.
+I am a Master's student in Computer Engineering at the [University of Virginia](https://www.virginia.edu/), expected to graduate in December 2026. My research interests lie at the intersection of **biosignal processing**, **cloud-edge AI systems**, and **generative models for healthcare applications**.
 
-Currently, I am a research assistant at the University of Louisville, working on EEG-based analysis of aggressive driving behaviors. Before UVA, I received my B.Eng. in Electronic & Computer Engineering from Shenzhen MSU-BIT University.
+Before coming to UVA, I earned my B.Eng. in Electronic and Computer Engineering from Shenzhen MSU-BIT University.
 
 ## Research Interests
 - EEG signal processing and biosignal analysis
