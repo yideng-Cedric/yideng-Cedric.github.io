@@ -23,7 +23,7 @@ repository               : "yideng/yideng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "self.png"
   name             : "Yi Deng"
   pronouns         : "he/him"  
   bio              : "M.E. in Computer Engineering, University of Virginia. Researcher in EEG signal processing and cloud-edge AI."
