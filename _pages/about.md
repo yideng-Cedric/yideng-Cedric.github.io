@@ -23,7 +23,7 @@ Before coming to UVA, I earned my B.Eng. in Electronic and Computer Engineering 
 
 ## Recent News
 
-- - **2026.03**: Joined [Prof. Yunmei Liu](https://engineering.louisville.edu/faculty/yunmei-liu/)'s research group at the University of Louisville as a Research Assistant.
+- **2026.03**: Joined [Prof. Yunmei Liu](https://engineering.louisville.edu/faculty/yunmei-liu/)'s research group at the University of Louisville as a Research Assistant.
 - **2026.02**: First-authored paper accepted by *IEEE Open Journal of the Communications Society* (JIF: 6.1, JCR Q1).
 - **2026.01**: Co-authored paper accepted by *IEEE Open Journal of the Communications Society* (JIF: 6.1, JCR Q1).
 - **2025.08**: Two papers accepted by *IEEE CloudCom 2025*.
