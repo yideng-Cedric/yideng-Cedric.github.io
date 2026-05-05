@@ -11,4 +11,4 @@ redirect_from:
 
 You can find my full CV here:
 
-[Download CV]({{ base_path }}/files/Yi_Deng_CV.pdf){: .btn .btn--primary}
+[Download CV]({{ base_path }}/files/Resume_YiDeng_PhD.pdf){: .btn .btn--primary}
