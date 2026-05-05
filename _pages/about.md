@@ -19,9 +19,9 @@ Currently, I am a research assistant at the University of Louisville, working on
 - Wireless sensing and wearable health monitoring
 
 ## Recent News
-- **2026.04**: First-authored paper accepted at *IEEE Open Journal of the Communications Society*.
-- **2026.01**: Started research assistantship at the University of Louisville.
-- **2025.12**: First-authored paper accepted at IEEE CloudCom 2025.
+- **2026.03**: Started research assistantship at the University of Louisville.
+- **2026.02**: First-authored paper accepted at *IEEE Open Journal of the Communications Society*.
+- **2025.08**: First-authored paper accepted at IEEE CloudCom 2025.
 - **2024.07**: First-authored paper accepted at IEEE SmartIoT 2024.
 
 ## Contact
