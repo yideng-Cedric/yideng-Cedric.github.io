@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Engineering at the [University of Virginia](https://www.virginia.edu/), expected to graduate in December 2026. My research interests lie at the intersection of **biosignal processing**, **cloud-edge AI systems**, and **generative models for healthcare applications**.
+I am a Master's student in Computer Engineering at the [University of Virginia](https://www.virginia.edu/), expected to graduate in December 2026. My research interests lie in **AI for healthcare**, with a focus on physiological sensing, daily health monitoring, and personalized health intelligence.
+
+I am interested in developing machine learning systems that can understand biosignals such as EEG and support continuous, non-invasive, and deployable healthcare applications. More broadly, I hope to build AI methods that make health monitoring more accessible, efficient, and personalized in real-world environments.
 
 Before coming to UVA, I earned my B.Eng. in Electronic and Computer Engineering from Shenzhen MSU-BIT University.
 
