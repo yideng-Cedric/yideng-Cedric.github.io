@@ -15,10 +15,11 @@ I am interested in developing machine learning systems that can understand biosi
 Before coming to UVA, I earned my B.Eng. in Electronic and Computer Engineering from Shenzhen MSU-BIT University.
 
 ## Research Interests
-- EEG signal processing and biosignal analysis
-- Cloud-edge AI systems under communication constraints
-- Generative models (GAN, Diffusion) for signal reconstruction
-- Wireless sensing and wearable health monitoring
+
+- AI for healthcare, daily health monitoring, and personalized health intelligence
+- Physiological signal processing and machine learning for EEG and wearable sensing
+- Reliable and deployable healthcare AI systems on cloud-edge platforms
+- Generative models for biosignal reconstruction, augmentation, and digital health applications
 
 ## Recent News
 
