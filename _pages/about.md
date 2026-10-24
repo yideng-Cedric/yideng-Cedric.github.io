@@ -10,13 +10,13 @@ redirect_from:
 
 I am an M.E. student in Computer Engineering at the [University of Virginia](https://www.virginia.edu/), expected to graduate in December 2026. I will join the [University of Texas at Arlington](https://www.uta.edu/) as a Computer Science Ph.D. student in Spring 2027.
 
-My research focuses on **physiological sensing and machine learning**, particularly EEG and wearable signals. I am interested in developing reliable sensing systems for real-world applications.
+My research interests lie in **wireless sensing, Artificial Intelligence of Things (AIoT), and cyber-physical systems (CPS).** I aim to develop intelligent and reliable sensing systems for real-world applications.
 
 ## Research Interests
 
-- Physiological and wearable sensing
-- Machine learning for multimodal sensing
-- Reliable sensing and cloud-edge AI
+- Wireless and multimodal sensing
+- AIoT and edge intelligence
+- Cyber-physical systems (CPS)
 
 ## Recent News
 
