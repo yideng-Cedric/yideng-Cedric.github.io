@@ -3,31 +3,31 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Master's student in Computer Engineering at the [University of Virginia](https://www.virginia.edu/), expected to graduate in December 2026. My research interests lie in **AI for healthcare**, with a focus on physiological sensing, daily health monitoring, and personalized health intelligence.
+I am an M.E. student in Computer Engineering at the [University of Virginia](https://www.virginia.edu/), expected to graduate in December 2026. I will join the [University of Texas at Arlington](https://www.uta.edu/) as a Computer Science Ph.D. student in Spring 2027.
 
-I am interested in developing machine learning systems that can understand biosignals such as EEG and support continuous, non-invasive, and deployable healthcare applications. More broadly, I hope to build AI methods that make health monitoring more accessible, efficient, and personalized in real-world environments.
-
-Before coming to UVA, I earned my B.Eng. in Electronic and Computer Engineering from Shenzhen MSU-BIT University.
+My research focuses on **physiological sensing and machine learning**, particularly EEG and wearable signals. I am interested in developing reliable sensing systems for real-world applications.
 
 ## Research Interests
 
-- AI for healthcare, daily health monitoring, and personalized health intelligence
-- Physiological signal processing and machine learning for EEG and wearable sensing
-- Reliable and deployable healthcare AI systems on cloud-edge platforms
-- Generative models for biosignal reconstruction, augmentation, and digital health applications
+- Physiological and wearable sensing
+- Machine learning for multimodal sensing
+- Reliable sensing and cloud-edge AI
 
 ## Recent News
-- **2026.05**: Joined the OSDI '26 Artifact Evaluation Committee (AEC) as an artifact evaluator.
-- **2026.03**: Joined [Prof. Yunmei Liu](https://engineering.louisville.edu/faculty/yunmei-liu/)'s research group at the University of Louisville as a Research Assistant.
-- **2026.02**: First-authored paper accepted by *IEEE Open Journal of the Communications Society* (JIF: 6.1, JCR Q1).
-- **2026.01**: Co-authored paper accepted by *IEEE Open Journal of the Communications Society* (JIF: 6.1, JCR Q1).
+
+- **2026.10**: Accepted the CS Ph.D. offer from UT Arlington.
+- **2026.08**: Served as a reviewer for *IEEE Transactions on Industrial Informatics*.
+- **2026.05**: Served as an artifact evaluator for OSDI '26 AEC.
+- **2026.02**: First-authored paper accepted by *IEEE OJ-COMS*.
+- **2026.01**: Co-authored paper accepted by *IEEE OJ-COMS*.
 - **2025.08**: Two papers accepted by *IEEE CloudCom 2025*.
 - **2024.07**: First-authored paper accepted by *IEEE SmartIoT 2024*.
 
 ## Contact
+
 Email: [yideng125@gmail.com](mailto:yideng125@gmail.com)
